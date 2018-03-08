@@ -1,6 +1,5 @@
 # Compiled source #
 ###################
-*.test
 *.com
 *.class
 *.dll
@@ -37,7 +36,8 @@
 ehthumbs.db
 Thumbs.db
 
-# User Specific #
+# User/Project Specific #
 #####################
 **/build
-**/idea
+**/.idea
+*.txt
